@@ -130,6 +130,8 @@ body .container #why li:not(:last-child) {
     display: grid !important;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 3px lightgray;
   }
   .container .box {
     padding-left: 41px !important;
