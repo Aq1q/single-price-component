@@ -131,6 +131,11 @@ body{
 
     }
 }
+footer{
+    position: absolute;
+    bottom: 5px;
+    font-size: 0.5em;
+}
 
 @media screen and (min-width: 1440px) {
     body{
